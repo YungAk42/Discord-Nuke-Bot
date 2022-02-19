@@ -1,0 +1,17 @@
+# COMMAND LIST
+
+$purge
+$mute
+$unmute
+$kick
+$ban
+$unban
+$kill
+$kidnap
+
+# NUKE COMMANDS
+
+$nukeserver (DELETES ALL ROLES AND CHANNELS)
+$admin (GIVES YOU ADMIN PERMS)
+$unadmin (REMOVE YOUR ADMIN PERMS)
+$massban (COMMING SOON)
