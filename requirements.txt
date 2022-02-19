@@ -1,0 +1,9 @@
+Type these commands into command promt.
+
+pip install nextcord
+pip install random
+pip install nextcord
+pip install datetime
+pip install humanfriendly
+pip install asyncio
+pip install itertools
