@@ -61,7 +61,11 @@ async def help(ctx):
      embed.add_field(name='$Clear', value='Clears an X amount of messages', inline=False)
      embed.add_field(name='$Kick', value='Kicks a member from the guild', inline=False)
      embed.add_field(name='$Ban', value='Bans a member from the guild', inline=False)
-    embed.add_field(name='$Mute', value='Mutes a member for X time', inline=False)
+     embed.add_field(name='$Unban', value='Unbans a member', inline=False)   
+     embed.add_field(name='$Mute', value='Mutes a member for X time', inline=False)
+     embed.add_field(name='$Unmute', value='Unmutes a member', inline=False)
+     embed.add_field(name='$Kill', value='Kills the person mentioned', inline=False)
+     embed.add_field(name='$Kidnap', value='Kidnaps the person mentioned', inline=False)
 
      await author.send(embed=embed)
 
