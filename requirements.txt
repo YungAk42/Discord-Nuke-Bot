@@ -1,3 +1,7 @@
+First install python
+
+You will need a coding software like notepad++ or vscode.
+
 Type these commands into command promt.
 
 pip install nextcord
@@ -7,3 +11,5 @@ pip install datetime
 pip install humanfriendly
 pip install asyncio
 pip install itertools
+
+Read Readme.md
