@@ -21,5 +21,6 @@ When it says "Bot Is Ready"
 
 You can start using your commands to have fun.
 
-
+IF YOU NEED HELP JOIN MY DISCORD SERVER
+https://discord.gg/8g3ZsUwzVZ
 #Educational purposes only :D
